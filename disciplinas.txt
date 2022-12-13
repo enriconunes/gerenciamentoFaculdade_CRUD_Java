@@ -1,0 +1,4 @@
+POO;6;ingles;3;Enrico;Giorgia;Roberto;
+Ciencias;6;portugues;1;Giorgia;
+Ciencias;6;ingles;3;Giorgia;Roberto;Enrico;
+Matematica;6;ingles;1;Enrico;

@@ -1,0 +1,4 @@
+Pedro;ufrj;brasil;masculino;Info Web;6;0;4;1;POO;
+Rivaldo;UFSB;Timor Leste;Masculino;Info Web;6;2;4;1;POO;
+Marcus;UFRJ;Brasil;Masculino;Info Web;6;3;4;1;POO;
+Enrico;dasd;dasd;sasd;Info Web;6;3;4;1;POO;
