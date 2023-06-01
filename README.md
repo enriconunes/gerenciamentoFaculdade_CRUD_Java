@@ -1,5 +1,5 @@
-# gerenciamento-faculdade-MELHORADO
-Cadastro, exclusão e edição de entidades de uma universidade.
+# gerenciamento-faculdade-JAVA-MELHORADO
+Cadastro, exclusão e edição de entidades de uma universidade feito em Java.
 
 Este projeto teve como objetivo gerenciar o cadastro de alunos, professores, disciplinas e cursos da Universidade da Beira Interior utilizando a linguagem Java. O gerenciamento consiste em cadastrar, excluir ou editar estes objetos por meio de um menu, onde há funções programadas para impossibilitar atividades inexequíveis como cadastrar objetos iguais e remover ou editar objetos inexistentes. Com esse projeto, pude exercitar os conhecimentos de programação orientada a objetos, hierarquia de classes com 'extends', arraylists, exceções com 'try' e 'catch', testes unitários com JUnit e documentação da aplicação com Javadoc.
 
